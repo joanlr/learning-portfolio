@@ -6,6 +6,8 @@
     - [View Certificate (PMI)](https://github.com/joanlr/learning-portfolio/blob/main/project-management/certificates/Certificate_ProjectManagementFoundationsRequirements_PMI.pdf)
     - [View Certificate (NASBA)](https://github.com/joanlr/learning-portfolio/blob/main/project-management/certificates/Certificate_ProjectManagementFoundationsRequirements_NASBA.pdf)
 
+---
+
 INTRO  
 MANAGING REQUIREMENTS FOR SUCCESSFUL PROJECTS  
     In simple terms, what the project needs.
