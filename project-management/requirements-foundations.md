@@ -127,5 +127,3 @@ APPROVE PROJECT REQUIREMENTS
 MANAGE CHANGE REQUIREMENTS  
     Develop process for submitting change requests  
     Always work from most recent version
-
-CONCLUSION  
