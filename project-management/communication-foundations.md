@@ -3,8 +3,8 @@
 **Type:** Course Notes  
 **Certificates:**  
 	- [View Certificate (LinkedIn)](https://github.com/joanlr/learning-portfolio/blob/main/project-management/certificates/Certificate_ProjectManagementFoundationsCommunication.pdf)  
-	- [View Certificate (PMI)](Certificate_ProjectManagementFoundationsCommunication_PMI.pdf)  
-	- [View Certificate (NASBA)](Certificate_ProjectManagementFoundationsCommunication_NASBA.pdf)
+	- [View Certificate (PMI)](https://github.com/joanlr/learning-portfolio/blob/main/project-management/certificates/Certificate_ProjectManagementFoundationsCommunication_PMI.pdf)  
+	- [View Certificate (NASBA)](https://github.com/joanlr/learning-portfolio/blob/main/project-management/certificates/Certificate_ProjectManagementFoundationsCommunication_NASBA.pdf)
 
 ---
 
