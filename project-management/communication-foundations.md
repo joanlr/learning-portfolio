@@ -2,7 +2,7 @@
 **Platform:** LinkedIn Learning  
 **Type:** Course Notes  
 **Certificates:**  
-	- [View Certificate (LinkedIn)](/certificates/Certificate_ProjectManagementFoundationsCommunication.pdf)  
+	- [View Certificate (LinkedIn)](learning-portfolio/project-management/certificates/Certificate_ProjectManagementFoundationsCommunication.pdf)  
 	- [View Certificate (PMI)](Certificate_ProjectManagementFoundationsCommunication_PMI.pdf)  
 	- [View Certificate (NASBA)](Certificate_ProjectManagementFoundationsCommunication_NASBA.pdf)
 
