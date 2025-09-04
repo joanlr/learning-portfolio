@@ -1,5 +1,5 @@
 ## learning-portfolio
-this repo contains course notes, certifications & thoughts around topics of interest, such as Digitalization, Data, Development, Design, Project Management & whatever "tech-related" interests I have at the moment or are relevant to me. this also serves as a 
+this repo contains course notes, certifications & thoughts around topics of interest, such as Digitalization, Data, Development, Design, Project Management & whatever "tech-related" interests I'm into at the moment or are relevant to me
 
 
 ### roadmap
