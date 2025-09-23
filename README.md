@@ -55,6 +55,7 @@ this repo contains course notes, certifications & thoughts around topics of inte
 │   └── 3D FDM & Resin Printing
 └── Planned:
     ├── Industrial Design
+    ├── 3ds Max
     ├── Generative Design
     └── Parametric Design
 
