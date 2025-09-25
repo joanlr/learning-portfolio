@@ -17,7 +17,8 @@ this repo contains course notes, certifications & thoughts around topics of inte
     │   ├── BIM
     │   └── Unreal Engine
     ├── Statistics
-    └── Analytics
+    ├── Analytics
+    └── RPA
 
 📁 Dev/
 ├── Completed:
